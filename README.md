@@ -1,2 +1,2 @@
 # Dog Breed Identifier 
-Converts jpg images to png
+Identifies the breed of a dog from a given image
